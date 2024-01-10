@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="project_account" table="x_448130_corpora_0_employee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>project_account</element>
+            <name>x_448130_corpora_0_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 00:07:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>project_account</sys_name>
+            <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+            <sys_update_name>sys_choice_x_448130_corpora_0_employee_project_account</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 00:07:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ABZ Consultancy</label>
+            <language>en</language>
+            <name>x_448130_corpora_0_employee</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 00:07:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 00:07:33</sys_updated_on>
+            <value>abz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PTL India Ltd.</label>
+            <language>en</language>
+            <name>x_448130_corpora_0_employee</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 00:07:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 00:08:00</sys_updated_on>
+            <value>ptl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Zone IT Services</label>
+            <language>en</language>
+            <name>x_448130_corpora_0_employee</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 00:08:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 00:08:28</sys_updated_on>
+            <value>zone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>YUC Motors</label>
+            <language>en</language>
+            <name>x_448130_corpora_0_employee</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 00:08:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 00:08:52</sys_updated_on>
+            <value>yuc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_account</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Qwerty Hospitals</label>
+            <language>en</language>
+            <name>x_448130_corpora_0_employee</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 00:09:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 00:09:24</sys_updated_on>
+            <value>qwerty</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

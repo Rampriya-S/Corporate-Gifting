@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>40592130976731105dfe79100153af08</logo>
+        <menu/>
+        <name>Corporate Gifting</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_448130_corpora_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Corporate gifting application will be used by the departments of an organization where managers can appreciate their mentees in the form of E-Voucher with a pre defined amount which will be added to the Employee e-wallet. Each employee can order their voucher based on his wallet balance ane number of vouchers.</short_description>
+        <source>x_448130_corpora_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 23:24:38</sys_created_on>
+        <sys_id>6aa7edbc972731105dfe79100153afba</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 23:31:50</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>corp gift.jpg</file_name>
+        <hash>87d099aa102919cc8a3331a2d75005f15612fba1546db79c131c2080c23f8a2d</hash>
+        <image_height>207</image_height>
+        <image_width>207</image_width>
+        <size_bytes>3037</size_bytes>
+        <size_compressed>2353</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 23:31:50</sys_created_on>
+        <sys_id>40592130976731105dfe79100153af08</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 23:31:50</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>6aa7edbc972731105dfe79100153afba</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="corp gift.jpg" sys_id="40592130976731105dfe79100153af08">40592130976731105dfe79100153af08</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 23:31:50</sys_created_on>
+        <sys_id>80592130976731105dfe79100153af08</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3124</length>
+        <position>1</position>
+        <sys_attachment display_value="corp gift.jpg" sys_id="40592130976731105dfe79100153af08">40592130976731105dfe79100153af08</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 23:31:50</sys_created_on>
+        <sys_id>04592130976731105dfe79100153af08</sys_id>
+    </sys_attachment_doc>
+</record_update>

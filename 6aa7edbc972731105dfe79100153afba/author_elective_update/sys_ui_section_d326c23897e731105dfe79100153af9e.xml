@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Corporate Appreciations" section_id="d326c23897e731105dfe79100153af9e" sys_domain="global" table="x_448130_corpora_0_employee" version="3" view="Corporate_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:37:58</sys_created_on>
+            <sys_id>6726063897e731105dfe79100153af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:37:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance_validity</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:37:58</sys_created_on>
+            <sys_id>e726063897e731105dfe79100153af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:37:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>awards_appreciations</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:37:58</sys_created_on>
+            <sys_id>6b26063897e731105dfe79100153af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:37:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:37:58</sys_created_on>
+            <sys_id>eb26063897e731105dfe79100153af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:37:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_budget</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:37:58</sys_created_on>
+            <sys_id>6f26063897e731105dfe79100153af1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:37:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Corporate Appreciations</caption>
+            <header>false</header>
+            <name>x_448130_corpora_0_employee</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:37:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d326c23897e731105dfe79100153af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448130_corpora_0_employee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+            <sys_update_name>sys_ui_section_d326c23897e731105dfe79100153af9e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:37:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Corporate View" name="Corporate_View">9de40ab497e731105dfe79100153af9b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</application>
+        <file_path/>
+        <instance_id>1c781f54db235f447d8cf22ebf961933</instance_id>
+        <instance_name>dev66723</instance_name>
+        <name>sys_ui_section_d326c23897e731105dfe79100153af9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Corporate Appreciations" section_id="d326c23897e731105dfe79100153af9e" sys_domain="global" table="x_448130_corpora_0_employee" version="3" view="Corporate_View"><sys_ui_element action="INSERT_OR_UPDATE"><element>e_wallet_balance</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 01:37:58</sys_created_on><sys_id>6726063897e731105dfe79100153af1f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 01:37:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>e_wallet_balance_validity</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 01:37:58</sys_created_on><sys_id>e726063897e731105dfe79100153af1f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 01:37:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>awards_appreciations</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 01:37:58</sys_created_on><sys_id>6b26063897e731105dfe79100153af1f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 01:37:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 01:37:58</sys_created_on><sys_id>eb26063897e731105dfe79100153af1f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 01:37:58</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>e_wallet_budget</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 01:37:58</sys_created_on><sys_id>6f26063897e731105dfe79100153af1f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="9de40ab497e731105dfe79100153af9b">d326c23897e731105dfe79100153af9e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 01:37:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Corporate Appreciations</caption><header>false</header><name>x_448130_corpora_0_employee</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 01:37:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d326c23897e731105dfe79100153af9e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_448130_corpora_0_employee</sys_name><sys_overrides/><sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope><sys_update_name>sys_ui_section_d326c23897e731105dfe79100153af9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 01:37:57</sys_updated_on><sys_user/><title>false</title><view display_value="Corporate View" name="Corporate_View">9de40ab497e731105dfe79100153af9b</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-682499793</payload_hash>
+        <record_name>Employee</record_name>
+        <reverted_from/>
+        <source>62a7edbc972731105dfe79100153afbf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 01:37:58</sys_created_on>
+        <sys_id>af26063897e731105dfe79100153af21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cccf85d2c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 01:37:58</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2726063878e731105b78fa0ce9190721</update_guid>
+        <update_guid_history>2726063878e731105b78fa0ce9190721:-682499793</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-10 23:42:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>b219e6b3ce6d40b989d74faeec743261</sys_id>
+        <sys_metadata>d326c23897e731105dfe79100153af9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Appreciations</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_parent display_value="Employee">653da1b4976731105dfe79100153af7e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_scope_delete display_value="">38c613993db84decb2e3f118162afce4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_d326c23897e731105dfe79100153af9e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_d326c23897e731105dfe79100153af9e">af26063897e731105dfe79100153af21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-10 23:42:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

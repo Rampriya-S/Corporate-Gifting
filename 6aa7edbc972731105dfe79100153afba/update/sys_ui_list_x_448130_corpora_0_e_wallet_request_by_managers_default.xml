@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_448130_corpora_0_e_wallet_request_by_managers" version="2" view="default">
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_448130_corpora_0_e_wallet_request_by_managers</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:16:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3341c67097e731105dfe79100153af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448130_corpora_0_e_wallet_request_by_managers</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global">global</sys_scope>
+            <sys_update_name>sys_ui_list_x_448130_corpora_0_e_wallet_request_by_managers_default</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:16:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default" name="default">269536a745110110a86630cf9552f33d</view>
+            <view_name/>
+        </sys_ui_list>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_448130_corpora_0_e_wallet_request_by_managers</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:17:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e71c67097e731105dfe79100153af16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448130_corpora_0_e_wallet_request_by_managers</sys_name>
+            <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+            <sys_update_name>sys_ui_list_x_448130_corpora_0_e_wallet_request_by_managers_default</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:17:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default" name="default">269536a745110110a86630cf9552f33d</view>
+            <view_name/>
+        </sys_ui_list>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_448130_corpora_0_e_wallet_request_by_managers</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 01:17:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e71c67097e731105dfe79100153af16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_448130_corpora_0_e_wallet_request_by_managers</sys_name>
+            <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+            <sys_update_name>sys_ui_list_x_448130_corpora_0_e_wallet_request_by_managers_default</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 01:17:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default" name="default">269536a745110110a86630cf9552f33d</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
