@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar display_value="Quarter">857ddda353f3001076bcddeeff7b12af</business_calendar>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <max_drift/>
+        <name>Reset Budget on Every Quarter</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="Rampriya S">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2024-01-21 20:33:50</run_start>
+        <run_time>1970-01-01 05:00:00</run_time>
+        <run_type>business_calendar_start</run_type>
+        <script><![CDATA[var gr = new GlideRecord('x_448130_corpora_0_employee');
+gr.addEncodedQuery('position_levelINmanager,s_manager,director,d_head,hr');
+gr.query();
+while(gr.next()){
+	gr.setValue('e_wallet_budget', 8000);
+	gr.update();
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 20:43:47</sys_created_on>
+        <sys_id>fdc6f67297f771105dfe79100153af46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reset Budget on Every Quarter</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_update_name>sysauto_script_fdc6f67297f771105dfe79100153af46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-21 20:43:47</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

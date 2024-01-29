@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 03:33:38</sys_created_on>
+        <sys_id>6d4dcf26977731105dfe79100153affe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_448130_corpora_0_employee.snc_internal</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_security_acl display_value="x_448130_corpora_0_employee">ad4dcf26977731105dfe79100153affd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6d4dcf26977731105dfe79100153affe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-21 03:33:38</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>994dcfe297f331105dfe79100153afe5</transaction_id>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</application>
+        <file_path/>
+        <instance_id>1c781f54db235f447d8cf22ebf961933</instance_id>
+        <instance_name>dev66723</instance_name>
+        <name>sys_security_acl_role_6d4dcf26977731105dfe79100153affe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 03:33:38</sys_created_on><sys_id>6d4dcf26977731105dfe79100153affe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_448130_corpora_0_employee.snc_internal</sys_name><sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope><sys_security_acl display_value="x_448130_corpora_0_employee">ad4dcf26977731105dfe79100153affd</sys_security_acl><sys_update_name>sys_security_acl_role_6d4dcf26977731105dfe79100153affe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 03:33:38</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role><transaction_id>994dcfe297f331105dfe79100153afe5</transaction_id></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1283952762</payload_hash>
+        <record_name>x_448130_corpora_0_employee.snc_internal</record_name>
+        <reverted_from/>
+        <source>f51d6922973131105dfe79100153afb7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-13 10:27:50</sys_created_on>
+        <sys_id>924d0366977731105dfe79100153afbf</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b289400700000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Access Roles</type>
+        <update_guid>524d0366ec7731104e8ef67329dd2cbf</update_guid>
+        <update_guid_history>524d0366ec7731104e8ef67329dd2cbf:1283952762</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_448130_corpora_0_employee.snc_internal">9e4d0366977731105dfe79100153afc0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 03:33:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>57256c9d7dc8437892ce5f41f1bc6a10</sys_id>
+        <sys_metadata>6d4dcf26977731105dfe79100153affe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_448130_corpora_0_employee.snc_internal</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_parent display_value="x_448130_corpora_0_employee">ad4dcf26977731105dfe79100153affd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_scope_delete display_value="">38c613993db84decb2e3f118162afce4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_6d4dcf26977731105dfe79100153affe</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_6d4dcf26977731105dfe79100153affe">924d0366977731105dfe79100153afbf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-21 03:33:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

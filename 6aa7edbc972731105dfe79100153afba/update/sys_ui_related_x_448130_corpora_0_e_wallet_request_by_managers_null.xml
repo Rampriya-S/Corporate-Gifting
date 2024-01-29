@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_448130_corpora_0_e_wallet_request_by_managers" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="E - Wallet Request by Managers - Default view" name="x_448130_corpora_0_e_wallet_request_by_managers" related_list="NULL" sys_domain="global" view="Default view">09572ea297b331105dfe79100153af1a</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:d4ad56a6977331105dfe79100153af02</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 00:47:51</sys_created_on>
+            <sys_id>89572ea297b331105dfe79100153af1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 00:47:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="E - Wallet Request by Managers - Default view" name="x_448130_corpora_0_e_wallet_request_by_managers" related_list="NULL" sys_domain="global" view="Default view">09572ea297b331105dfe79100153af1a</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:7574eeae977331105dfe79100153af2b</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 00:47:51</sys_created_on>
+            <sys_id>81572ea297b331105dfe79100153af1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 00:47:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="E - Wallet Request by Managers - Default view" name="x_448130_corpora_0_e_wallet_request_by_managers" related_list="NULL" sys_domain="global" view="Default view">09572ea297b331105dfe79100153af1a</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:f627a6ee977331105dfe79100153af1b</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 00:47:51</sys_created_on>
+            <sys_id>85572ea297b331105dfe79100153af1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 00:47:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>E - Wallet Request by Managers - Default view</calculated_name>
+            <filter/>
+            <name>x_448130_corpora_0_e_wallet_request_by_managers</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 00:47:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09572ea297b331105dfe79100153af1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>E - Wallet Request by Managers - Default view</sys_name>
+            <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+            <sys_update_name>sys_ui_related_x_448130_corpora_0_e_wallet_request_by_managers_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 00:47:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

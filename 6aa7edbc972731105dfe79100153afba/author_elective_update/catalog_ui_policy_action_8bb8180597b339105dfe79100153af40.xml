@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Raise E-Wallet Request for your Mentee">054a621897b375105dfe79100153af32</catalog_item>
+        <catalog_variable>IO:bd70fedc97b375105dfe79100153af9b</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 22:33:59</sys_created_on>
+        <sys_id>8bb8180597b339105dfe79100153af40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type_of_award_appreciation</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_8bb8180597b339105dfe79100153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 22:33:59</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Raise E-Wallet Request for your Mentee UI policy">b388188197b339105dfe79100153afae</ui_policy>
+        <variable>type_of_award_appreciation</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</application>
+        <file_path/>
+        <instance_id>1c781f54db235f447d8cf22ebf961933</instance_id>
+        <instance_name>dev66723</instance_name>
+        <name>catalog_ui_policy_action_8bb8180597b339105dfe79100153af40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Raise E-Wallet Request for your Mentee">054a621897b375105dfe79100153af32</catalog_item><catalog_variable>IO:bd70fedc97b375105dfe79100153af9b</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-15 22:33:59</sys_created_on><sys_id>8bb8180597b339105dfe79100153af40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>type_of_award_appreciation</sys_name><sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope><sys_update_name>catalog_ui_policy_action_8bb8180597b339105dfe79100153af40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-15 22:33:59</sys_updated_on><table/><ui_policy display_value="Raise E-Wallet Request for your Mentee UI policy">b388188197b339105dfe79100153afae</ui_policy><variable>type_of_award_appreciation</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1392381750</payload_hash>
+        <record_name>type_of_award_appreciation</record_name>
+        <reverted_from/>
+        <source>be55321797a731105dfe79100153af55</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 22:33:59</sys_created_on>
+        <sys_id>8fb8180597b339105dfe79100153af57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d0f429a970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 22:33:59</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>cfb81805c6b33910f1dcd256f519b756</update_guid>
+        <update_guid_history>cfb81805c6b33910f1dcd256f519b756:1392381750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="type_of_award_appreciation">09199c0597b339105dfe79100153afca</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-15 22:35:29</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>100b5e1475704797836e9d68b4e2a3a1</sys_id>
+        <sys_metadata>8bb8180597b339105dfe79100153af40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type_of_award_appreciation</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_scope_delete display_value="">38c613993db84decb2e3f118162afce4</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_8bb8180597b339105dfe79100153af40</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_8bb8180597b339105dfe79100153af40">8fb8180597b339105dfe79100153af57</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-15 22:35:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>e_wallet_budget</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 02:59:03</sys_created_on>
+        <sys_id>d5458faa973731105dfe79100153af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e_wallet_budget</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d5458faa973731105dfe79100153af25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-21 02:59:03</sys_updated_on>
+        <table>x_448130_corpora_0_employee</table>
+        <ui_policy display_value="E-Wallet budget Ploicy">38748f6a973731105dfe79100153af3c</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

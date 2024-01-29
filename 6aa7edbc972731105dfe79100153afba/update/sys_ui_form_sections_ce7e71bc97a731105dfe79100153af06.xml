@@ -3,16 +3,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-03 01:04:17</sys_created_on>
+            <sys_created_on>2024-01-21 03:43:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>da7e71bc97a731105dfe79100153af09</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>9d9fc32a977731105dfe79100153af39</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_448130_corpora_0_e_wallet_request_by_managers" name="x_448130_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">ce7e71bc97a731105dfe79100153af06</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_448130_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">9cc33dfc976731105dfe79100153afa2</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_448130_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">c19f832a977731105dfe79100153afe8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-03 01:04:17</sys_updated_on>
+            <sys_updated_on>2024-01-21 03:43:44</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>

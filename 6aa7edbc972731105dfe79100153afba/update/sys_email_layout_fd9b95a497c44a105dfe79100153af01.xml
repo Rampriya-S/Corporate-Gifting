@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_layout">
+    <sys_email_layout action="INSERT_OR_UPDATE">
+        <advanced>true</advanced>
+        <advanced_layout><![CDATA[<table style="width: 100%; background-color: #ffffff;">
+<tbody>
+<tr>
+<td>
+<table style="width: 100%; text-align: center; max-width: 800px; margin: auto;">
+<tbody>
+<tr>
+<td style="margin-left: auto; margin-right: auto; height: 50px; background-color: #ffffffff; text-align: left; padding: 15px 0px 15px 30px;"><img style="display: block; margin-left: auto; margin-right: auto;" title="" src="x_448130_corpora_0.corGift.png" alt="" width="324" height="38" align="baseline" border="" hspace="" vspace="" /></td>
+</tr>
+<tr>
+<td style="width:700px; height:3px; background-color: #007680;">
+</td>
+</tr>
+<p>
+<br/>
+</p>
+<tr>
+<td style="background-color:#ECF2F9; padding: 5px; border:2px solid #10069F; font-family:verdana; font-size:10pt; width:600; table-layout: auto; color: #10069F;">
+<p>${notification:body}</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="center"></td>
+</tr>
+<p>
+<br/>
+</p>
+</tbody>
+</table>
+
+<center>
+<table>
+<tr>
+<td style="width:700px; height:3px; background-color: #007680;">	
+</td>	
+</tr>	
+</table>
+<table style="font-family: Verdana; font-size: 11pt; color: #333399; text-align: center;">	
+	<tr>
+	<td >
+	IS Support Center: 508-334-8800
+	</td>
+	</tr>
+	<tr>
+	<td >
+	<strong><i>Everyone, Everyday.</i></strong>
+    </td>
+	</tr>
+</table>
+</center>
+ 
+   
+]]></advanced_layout>
+        <description/>
+        <layout/>
+        <name>Corporate Gifting</name>
+        <sys_class_name>sys_email_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-27 00:28:23</sys_created_on>
+        <sys_id>fd9b95a497c44a105dfe79100153af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Gifting</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_update_name>sys_email_layout_fd9b95a497c44a105dfe79100153af01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-27 00:28:23</sys_updated_on>
+    </sys_email_layout>
+</record_update>

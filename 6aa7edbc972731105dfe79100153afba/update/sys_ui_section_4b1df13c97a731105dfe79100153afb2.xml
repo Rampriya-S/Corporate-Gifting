@@ -1,72 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Corporate Appreciations" section_id="4b1df13c97a731105dfe79100153afb2" sys_domain="global" table="x_448130_corpora_0_employee" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 04:23:08</sys_created_on>
+            <sys_id>e6981fe297b731105dfe79100153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 04:23:08</sys_updated_on>
+            <text>This Section will talk about the Awards/Appreciations received the Employees and their E-Wallet Details.</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>e_wallet_balance</element>
+            <element>e6981fe297b731105dfe79100153af8b</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-03 00:58:20</sys_created_on>
-            <sys_id>071d353c97a731105dfe79100153af02</sys_id>
+            <sys_created_on>2024-01-21 04:23:08</sys_created_on>
+            <sys_id>ae981fe297b731105dfe79100153af8e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="Default view">4b1df13c97a731105dfe79100153afb2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-03 00:58:20</sys_updated_on>
+            <sys_updated_on>2024-01-21 04:23:08</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 04:23:08</sys_created_on>
+            <sys_id>26981fe297b731105dfe79100153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="Default view">4b1df13c97a731105dfe79100153afb2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 04:23:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>e_wallet_balance_validity</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-03 00:58:20</sys_created_on>
-            <sys_id>871d353c97a731105dfe79100153af02</sys_id>
+            <sys_created_on>2024-01-21 04:23:08</sys_created_on>
+            <sys_id>a6981fe297b731105dfe79100153af8f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="Default view">4b1df13c97a731105dfe79100153afb2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-03 00:58:20</sys_updated_on>
+            <sys_updated_on>2024-01-21 04:23:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>awards_appreciations</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-03 00:58:20</sys_created_on>
-            <sys_id>0b1d353c97a731105dfe79100153af02</sys_id>
+            <sys_created_on>2024-01-21 04:23:08</sys_created_on>
+            <sys_id>2a981fe297b731105dfe79100153af8f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="Default view">4b1df13c97a731105dfe79100153afb2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-03 00:58:20</sys_updated_on>
+            <sys_updated_on>2024-01-21 04:23:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-03 00:58:20</sys_created_on>
-            <sys_id>8b1d353c97a731105dfe79100153af02</sys_id>
+            <sys_created_on>2024-01-21 04:23:08</sys_created_on>
+            <sys_id>aa981fe297b731105dfe79100153af8f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="Default view">4b1df13c97a731105dfe79100153afb2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-03 00:58:20</sys_updated_on>
+            <sys_updated_on>2024-01-21 04:23:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>e_wallet_budget</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-03 00:58:20</sys_created_on>
-            <sys_id>0f1d353c97a731105dfe79100153af02</sys_id>
+            <sys_created_on>2024-01-21 04:23:08</sys_created_on>
+            <sys_id>2e981fe297b731105dfe79100153af8f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_448130_corpora_0_employee" sys_domain="global" view="Default view">4b1df13c97a731105dfe79100153afb2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-03 00:58:20</sys_updated_on>
+            <sys_updated_on>2024-01-21 04:23:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

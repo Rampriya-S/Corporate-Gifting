@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7fb33dfc976731105dfe79100153af25" extends="task" label="E - Wallet Request by Managers" max_length="40" name="x_448130_corpora_0_e_wallet_request_by_managers" type="collection">
+        <element label="Rejection Reason" max_length="40" name="rejection_reason" type="string"/>
         <element label="Requested By (Manager)" max_length="32" name="requested_by_manager" reference="sys_user" type="reference"/>
         <element label="Requested For (Employee)" max_length="32" name="requested_for_employee" reference="sys_user" type="reference"/>
         <element choice="1" label="Request Status" max_length="40" name="request_status" type="choice">

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_448130_corpora_0_e_wallet_request_by_managers</collection>
+        <email_layout display_value="Corporate Gifting">fd9b95a497c44a105dfe79100153af01</email_layout>
+        <message/>
+        <message_html><![CDATA[<table style="border-collapse: collapse; width: 99.9965%; height: 61.5972px;" border="1">
+<tbody>
+<tr style="height: 30.7986px;">
+<td style="width: 47.5452%; height: 30.7986px;"><br />Employee Name</td>
+<td style="width: 47.5452%; height: 30.7986px;">${requested_for_employee}</td>
+</tr>
+<tr style="height: 15.3993px;">
+<td style="width: 47.5452%; height: 15.3993px;">Employee number</td>
+<td style="width: 47.5452%; height: 15.3993px;">${number}</td>
+</tr>
+<tr style="height: 15.3993px;">
+<td style="width: 47.5452%; height: 15.3993px;">Manager ${requested_by_manager}</td>
+<td style="width: 47.5452%; height: 15.3993px;">&nbsp;${requested_by_manager}</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>E-Wallet Request submitted - template</name>
+        <sms_alternate/>
+        <subject>E - Wallet Request submitted for ${requested_for_employee}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-27 01:02:42</sys_created_on>
+        <sys_id>e963692097084a105dfe79100153af08</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>E-Wallet Request submitted - template</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_448130_corpora_0">6aa7edbc972731105dfe79100153afba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">6aa7edbc972731105dfe79100153afba</sys_scope>
+        <sys_update_name>sysevent_email_template_e963692097084a105dfe79100153af08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-27 01:06:33</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
